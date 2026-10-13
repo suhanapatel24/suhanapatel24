@@ -17,7 +17,7 @@ The platform is designed around one operational problem: keeping the deployed ap
 - Kubernetes Deployment, Service, ServiceAccount, probes, resource limits, and NetworkPolicy
 - Kustomize overlays for development and production
 - Argo CD Application with automated sync, pruning, and self-healing
-- Terraform directory reserved for the GCP cluster foundation
+- Terraform foundation for a GKE Autopilot cluster, Artifact Registry, and optional GitHub OIDC publishing identity
 
 ## Run locally
 
@@ -57,7 +57,7 @@ This project currently lives under `suhanapatel24/suhanapatel24` in the `gitops-
 
 ## Next build milestones
 
-1. Add Terraform for a small GKE Autopilot cluster and Artifact Registry.
+1. Apply the Terraform foundation and collect live deployment evidence.
 2. Add a staging-to-production promotion workflow based on image digests.
 3. Add Prometheus metrics and a Grafana dashboard.
 4. Add vulnerability scanning and a signed-image verification step.

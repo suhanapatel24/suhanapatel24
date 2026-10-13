@@ -4,5 +4,10 @@ __pycache__/
 .terraform/
 *.tfstate
 *.tfstate.*
+tfplan
+terraform.tfvars
+.terraform/
+*.tfstate
+*.tfstate.*
 *.tfvars
 !.example.tfvars
