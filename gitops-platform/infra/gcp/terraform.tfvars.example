@@ -1,0 +1,7 @@
+project_id        = "replace-with-your-gcp-project-id"
+region            = "us-west1"
+zone              = "us-west1-a"
+cluster_name      = "gitops-release-platform"
+github_repository = "suhanapatel24/suhanapatel24"
+
+enable_github_oidc = true
