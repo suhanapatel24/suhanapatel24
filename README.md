@@ -2,14 +2,13 @@
 
 # Hi, I'm Suhana Patel 👋
 
-### M.S. Computer Science @ San Diego State University · AI/ML Engineer · Graduating May 2027
+### M.S. Computer Science @ San Diego State University · Software Engineer · AI/ML · Cloud · Data · May 2027
 
-I build **LLM and machine-learning systems that are measured, secure and reproducible**, and I like proving it with benchmarks, tests and honest limitations.
+I build **software across AI/ML, cloud and data** that is measured, secure and reproducible, and I like proving it with benchmarks, tests and honest limitations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suhanapatel246-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhanapatel246/)
 [![Email](https://img.shields.io/badge/Email-suhanampatel24%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:suhanampatel24@gmail.com)
-![Location](https://img.shields.io/badge/Based%20in-San%20Diego%2C%20CA-1F2937)
-![Open to work](https://img.shields.io/badge/Open%20to-Full--time%20AI%2FML%20%26%20Data%20roles%20·%202027-16A34A)
+![Open to work](https://img.shields.io/badge/Open%20to-Early--career%20SWE%2C%20AI%2FML%2C%20Data%20%26%20Cloud%20roles-16A34A)
 
 </div>
 
@@ -97,7 +96,7 @@ I build **LLM and machine-learning systems that are measured, secure and reprodu
 
 <div align="center">
 
-**I'm looking for full-time AI/ML Engineer, Data Scientist and ML/Software Engineer roles starting 2027.**  
+**I'm open to early-career, full-time roles in software engineering, AI/ML, data and cloud engineering.**  
 Let's talk: [LinkedIn](https://www.linkedin.com/in/suhanapatel246/) · [suhanampatel24@gmail.com](mailto:suhanampatel24@gmail.com)
 
 </div>
