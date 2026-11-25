@@ -6,7 +6,7 @@
 
 I build **LLM and machine-learning systems that are measured, secure and reproducible**, and I like proving it with benchmarks, tests and honest limitations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-suhanapatel24-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhanapatel24/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suhanapatel246-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhanapatel246/)
 [![Email](https://img.shields.io/badge/Email-suhanampatel24%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:suhanampatel24@gmail.com)
 ![Location](https://img.shields.io/badge/Based%20in-San%20Diego%2C%20CA-1F2937)
 ![Open to work](https://img.shields.io/badge/Open%20to-Full--time%20AI%2FML%20%26%20Data%20roles%20·%202027-16A34A)
@@ -98,6 +98,6 @@ I build **LLM and machine-learning systems that are measured, secure and reprodu
 <div align="center">
 
 **I'm looking for full-time AI/ML Engineer, Data Scientist and ML/Software Engineer roles starting 2027.**  
-Let's talk: [LinkedIn](https://www.linkedin.com/in/suhanapatel24/) · [suhanampatel24@gmail.com](mailto:suhanampatel24@gmail.com)
+Let's talk: [LinkedIn](https://www.linkedin.com/in/suhanapatel246/) · [suhanampatel24@gmail.com](mailto:suhanampatel24@gmail.com)
 
 </div>
